@@ -1,0 +1,7 @@
+{
+  "name": "DashboardApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

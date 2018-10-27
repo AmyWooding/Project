@@ -1,0 +1,7 @@
+{
+  "name": "DashboardSide",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

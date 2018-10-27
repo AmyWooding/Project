@@ -1,0 +1,7 @@
+{
+  "name": "DashboardRestart",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
